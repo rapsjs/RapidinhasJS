@@ -18,10 +18,9 @@ var options = {
 
 console.log(`${dicaTitulo} \n`)
 console.log('1: ', options.dicaUm)
-console.log('2: ', options.dicaDois)
-console.log('3: ', options.dicaTres)
+
+>_ saida de dados da rotina acima
 
 
 /* Social Netw.: @rapsjs - rapidinhas-js.github.io/site/ */
-/*-------------------------------------------------------*/
-/* ------------- Dica sugerida por @perfil ------------- */
+/* Tema: Dracula _____________ Dica sugerida por @perfil */
