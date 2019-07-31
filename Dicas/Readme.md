@@ -14,7 +14,7 @@
 
 ### Template para  Cartão
 
-- Clique no link para acessar o template. --> [Card Template](https://raw.githubusercontent.com/IsacPetinate/dicas-js/master/Dicas/CardTemplate.md)
+- Clique no link para acessar o template. --> [Card Template](https://github.com/rapidinhas-js/RapidinhasJS/blame/master/Dicas/CardTemplate.md)
     - Para visualizar o template corretamente caso não esteja sendo apresentado corretamente, clique na opção `Raw` ou `Blame` na barra de icones do Github onde tem `[Raw | Blame | History]`
     - Manter as proporções de linhas e traçoes, para que a imagem no Carbon fique alinhada e ajustada para postar em dispositivos móveis.
 
@@ -31,4 +31,4 @@
 
 > Exemplo de imagem ideal
 
-![Cartão de Código](https://github.com/IsacPetinate/dicas-js/blob/master/Dicas/DataHora-ptBR/dica-dateTime-toLocaleDateString-ptBR.png)
+![Cartão de Código](https://raw.githubusercontent.com/rapidinhas-js/RapidinhasJS/master/Dicas/DataHora-ptBR/dica-dateTime-toLocaleDateString-ptBR.png)
