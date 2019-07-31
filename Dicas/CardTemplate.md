@@ -22,6 +22,6 @@ console.log('2: ', options.dicaDois)
 console.log('3: ', options.dicaTres)
 
 
-/*_______________________________________________________*/
-
-/* Instagram: @SEU_INSTA - GitHub: http://bit.ly/2LP19L3 */
+/* Social Netw.: @rapsjs - rapidinhas-js.github.io/site/ */
+/*-------------------------------------------------------*/
+/* ------------- Dica sugerida por @perfil ------------- */
