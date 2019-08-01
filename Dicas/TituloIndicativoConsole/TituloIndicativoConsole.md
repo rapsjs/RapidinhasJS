@@ -1,4 +1,4 @@
-// Dica rápida sobre JS -  Titulo Indicativo no console.log()
+// Dica rápida sobre JS -  Título Indicativo no console.log()
 
 /*
 ** Em alguns momentos é necessário utilizar o console.log()
@@ -14,13 +14,13 @@ const obj = {
   propC: ['N', 'H', 'A'],
 }
 
-// Modo 1 - Como string
+// Modo 1 - String
 console.log('Propriedade A', obj.propA)
 
-// Modo 2 - Como objeto
+// Modo 2 - Objeto
 console.log({ PropriedadeB: obj.propB })
 
-// Modo 3 - Como template string
+// Modo 3 - Template String
 console.log(`Propriedade C: ${obj.propC}`)
 
 /* ---------- Resultado no Console do Navegador ---------- */
