@@ -31,4 +31,4 @@
 
 > Exemplo de imagem ideal
 
-![Cartão de Código](https://github.com/IsacPetinate/dicas-js/blob/master/Dicas/DataHora-ptBR/dica-dateTime-toLocaleDateString-ptBR.png)
+![Cartão de Código](https://github.com/IsacPetinate/dicas-js/blob/master/Dicas/DataHoraPtBr/DataHoraPtBr.png)

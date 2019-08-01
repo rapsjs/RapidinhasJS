@@ -18,10 +18,8 @@ var options = {
 
 console.log(`${dicaTitulo} \n`)
 console.log('1: ', options.dicaUm)
-console.log('2: ', options.dicaDois)
-console.log('3: ', options.dicaTres)
 
+> Resultado da saída do console
 
-/*_______________________________________________________*/
-
-/* Instagram: @SEU_INSTA - GitHub: http://bit.ly/2LP19L3 */
+/* Redes Sociais: @rapsjs -- rapidinhas-js.github.io/site/ */
+/* Tema: Monokai - Dica sugerida pelo(a) @nickname_profile */
